@@ -1,0 +1,25 @@
+# Core
+torch>=2.0.0
+torchvision>=0.15.0
+numpy
+pandas
+opencv-python
+matplotlib
+tqdm
+scipy
+Pillow
+
+# YOLOv8
+ultralytics
+
+# Tracking
+deep_sort_realtime
+
+# 3D Visualization
+panda3d
+
+# Optional: GPT-4 / OpenAI API
+openai
+
+# Optional: Image file helpers
+imageio
